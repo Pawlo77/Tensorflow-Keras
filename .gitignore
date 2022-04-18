@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+*logs
+datasets
+downloads
+models
+results
+*.h5
+*tfrecord
+*.data
